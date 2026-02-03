@@ -1,0 +1,1 @@
+python run_d2ir.py --input_path /data/matengyu/students/anguanming/D2IR/data/Test_Set/deblur/val_00000001_LR.png --output_dir ./results
